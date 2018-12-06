@@ -1,0 +1,13 @@
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\bin\Debug\MoneyTrackerApp.exe.config
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.csprojResolveAssemblyReference.cache
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTracker.baml
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTracker.g.cs
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\App.g.cs
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp_MarkupCompile.cache
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.g.resources
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.Properties.Resources.resources
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.csproj.GenerateResource.Cache
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\bin\Debug\MoneyTrackerApp.exe
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\bin\Debug\MoneyTrackerApp.pdb
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.exe
+E:\documents\Visual Studio 2013\Projects\MoneyTrackerApp\MoneyTrackerApp\obj\Debug\MoneyTrackerApp.pdb

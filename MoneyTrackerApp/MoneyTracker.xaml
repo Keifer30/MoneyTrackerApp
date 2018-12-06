@@ -1,0 +1,21 @@
+﻿<Window x:Class="MoneyTrackerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="CashBox" HorizontalAlignment="Left" Height="23" Margin="117,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" ToolTip="Enter Cash Amount" Text="0"/>
+        <TextBox x:Name="MidtermBox" HorizontalAlignment="Left" Height="23" Margin="117,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" ToolTip="Enter Midterm Savings Amount" Text="0"/>
+        <TextBox x:Name="ShortTermBox" HorizontalAlignment="Left" Height="23" Margin="117,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" ToolTip="Enter Short Term Savings  Amount" Text="0"/>
+        <TextBox x:Name="RetirementBox" HorizontalAlignment="Left" Height="23" Margin="117,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" ToolTip="Enter Retirement Savings Amount" Text="0"/>
+        <Label x:Name="UnitsLabel" Content="Amount ($)" HorizontalAlignment="Left" Margin="117,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TotalBox" HorizontalAlignment="Left" Height="23" Margin="370,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="TotalUnitsLabel" Content="Amount ($)" HorizontalAlignment="Left" Margin="370,100,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="RetirementLabel" Content="Retirement Amount:" HorizontalAlignment="Left" Margin="2,167,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="MidtermLabel" Content="Midterm Amount:" HorizontalAlignment="Left" Margin="14,138,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ShortTermLabel" Content="Short Term Amount:" HorizontalAlignment="Left" Margin="2,109,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label x:Name="CashLabel" Content="Cash Amount:" HorizontalAlignment="Left" Margin="34,80,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label x:Name="TotalLabel" Content="Total Amount:" HorizontalAlignment="Left" Margin="287,124,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label x:Name="TitleLabel" Content="Keifer's Money Tracker App" HorizontalAlignment="Left" Margin="180,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="CalculateButton" Content="Calculate" HorizontalAlignment="Left" Margin="220,240,0,0" VerticalAlignment="Top" Width="75" Click="CalculateButton_Click"/>
+    </Grid>
+</Window>
